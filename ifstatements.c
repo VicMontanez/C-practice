@@ -23,7 +23,14 @@ int max(int num1, int num2, int num3)
 
 int main()
 {
-    printf("%d\n", max(1, 2, 3));
-
+    // printf("%d\n", max(1, 2, 3));
+    if (3 > 2 || 2 > 5)
+    {
+        printf("True");
+    }
+    else
+    {
+        printf("False");
+    }
     return 0;
 }
