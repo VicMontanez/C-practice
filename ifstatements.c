@@ -24,7 +24,7 @@ int max(int num1, int num2, int num3)
 int main()
 {
     // printf("%d\n", max(1, 2, 3));
-    if (3 > 2 || 2 > 5)
+    if (3 > 2 || 2 > 5) // && = and, || = or
     {
         printf("True");
     }
