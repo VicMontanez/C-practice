@@ -3,9 +3,7 @@
 
 int main()
 {
-    /*
-    printf("This is an example.");
-    */
+    
 
     return 0;
 }
