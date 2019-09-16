@@ -10,6 +10,7 @@ int main()
     //       printf("%d\n", i);
     //       i++;
     //   }
+    
     int i;
     for (i = 0; i < 6; i++)
     {
