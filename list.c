@@ -13,6 +13,7 @@ typedef struct NODE
 
 void addNode(int value, NODE *root)
 {
+    //NODE* newNode
     NODE *newNode = malloc(sizeof(NODE));
     newNode->value = value;
     newNode->next = NULL;
